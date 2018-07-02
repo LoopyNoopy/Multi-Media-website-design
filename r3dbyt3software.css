@@ -1,0 +1,73 @@
+body{
+	background-image: url("r3dbyt3background.jpg");
+	background-size: fill;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+
+h2{
+	color: red;
+	text-align: center;
+}
+
+h3{
+	color: red;
+	text-align: center;
+}
+
+h4{
+	color: red;
+	text-align: center;
+}
+
+h5{
+	color: red;
+	text-align: center;
+}
+
+h6{
+	color: red;
+	text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+	border: 1px solid #555;
+	background-color: #FFF;
+	text-align: center;
+}
+
+active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+li {
+    text-align: center;
+	display: inline;
+}
+
+li a:hover {
+	background-color: #111;
+}
+
+a {
+	color:black;
+}
+
+a:hover {
+	color:white;
+}
+
+p{
+	text-align: center;
+}
+
+address{
+	text-align: center;
+}
+
